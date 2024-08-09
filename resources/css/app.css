@@ -1,0 +1,35 @@
+.admin-table-header {
+    background-color: #000; 
+    color: #E87841;
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+.client-table-header {
+    background-color: #E87841; 
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  body {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+  }
+
+  .nav-link {
+    text-decoration: none;
+    color: red;
+    /* Other styles */
+  }
