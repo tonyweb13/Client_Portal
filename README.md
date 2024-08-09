@@ -1,4 +1,4 @@
-# PrepKanga Client Portal
+# Client Portal
 
 ### 1. composer install
 
